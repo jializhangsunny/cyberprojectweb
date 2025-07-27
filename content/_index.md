@@ -10,20 +10,18 @@ design:
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
-      text: The easy, no-code technical documentation solution your users will love 🎉
+      title: Return On Cyber Security Investment (ROCSI)
+      text: To be of business value, any investment must be selective and focus on high priority areas of the business. However, boards find it difficult to justify the cost of investment and formulate ROI arguments on cyber security due to their inability to fully understand and anticipate the direct and indirect impact of cyber threats. The fundamental problem is the absence of transparent ways of integrating cyber threats into the boards' decisions about investment in cyber security. The proposed ROCSI is designed to address these challenges by comprehensively capturing threat data from multiple threat sources and integrating it into the cyber security investment decision processes. The ROCSI aims to deliver threat-informed, user-tailored and up-to-date decision support which is continuously updated as new threat data becomes available. The ROCSI will output the ROI analysis on threat mitigations in response to the business processes ranked by decision makers.
+
+This project will deliver the foundations for a novel approach to cyber security decision making at the board and strategic level through combining multidisciplinary data and human factors to improve the transparency and quality of decision making. It will contribute to the national strategy on cyber security through the research of threat-informed decision making at the board and strategic level, with the aim of enhancing organisations' cyber defence capability and improve organisational resilience. It addresses the theme "Incentives and behaviours" of the NCSC Research Problem Book, through incentivising boards and organisations to proactively invest into cyber security and adopt positive security behaviours. The proposed research sits in the Global Uncertainties theme, where Cyber Security is listed as a priority.
+
+This project is in a unique position to deliver impact in both research communities and industries based on the PI's previous engagement with NCSC, RITICS, RISCS, Innovate UK, and the PI's established contacts who will help shape, evaluate and refine the proposed research. this project uniquely benefits from the host organisation's strong track record in human decision making (the LUCID research lab) and behaviour science (the ESRC funded NIBS) research, its partnership with NCSC, GCHQ, and Dstl and the Horizon DER Institute that enables the widest dissemination and exploitation of research outcomes.
+
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
+        text: Try Rocsi Web
+        url: https://jializhangsunny.github.io/cyberdataproject1/
         icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: /docs/
-      announcement:
-        text: "Announcing the release of version 2."
-        link:
-          text: "Read more"
-          url: "/blog/"
+
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -40,58 +38,21 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "£199,145"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+           Funded Value:
+        - statistic: "ES/W005964/2"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
+            Project Reference
+        - statistic: "Ying He"
           description: |
-            Discord community  
-            for support
+            Principal Investigator
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-800"
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: features
-    id: features
-    content:
-      title: Features
-      text: Collaborate, publish, and maintain technical knowledge with an all-in-one documentation site. Used by 100,000+ startups, enterprises, and researchers.
-      items:
-        - name: Optimized SEO
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
-          icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
-  - block: cta-card
-    content:
-      title: "Start Writing with the #1 Effortless Documentation Platform"
-      text: Hugo Blox Docs Theme brings all your technical knowledge together in a single, centralized knowledge base. Easily search and edit it with the tools you use every day!
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+  
+
 ---
